@@ -621,7 +621,20 @@ body {
   .blog__item-img{
     width: 100%;
   }
-  .blog, .blog__slider{
+  .info__part{
+    padding-top: 50px;
+  }
+  .evo-white__video{
+    margin-top: 50px;
+  }
+  .evo-white-inner{
+    padding-top: 75px;
+  }
+  .evo-black__img{
+    margin-top: 130px;
+  }
+
+  .blog, .blog__slider,.evo{
     margin-bottom: 50px;
   }
   .footer{
